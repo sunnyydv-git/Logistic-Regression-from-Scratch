@@ -1,1 +1,4 @@
 # Logistic-Regression-from-Scratch
+<br>
+
+Logistic regression is a statistical method used for binary classification tasks. It models the probability that a given input belongs to a particular class. Instead of predicting a continuous output, logistic regression predicts the probability of the output being one of two possible classes. This is achieved using the logistic function (also known as the sigmoid function), which maps any real-valued number into the range [0, 1]. The model estimates the relationship between the dependent binary variable and one or more independent variables by fitting a logistic curve to the data. Logistic regression is widely used in various fields, including medicine, social sciences, and machine learning, for tasks such as spam detection, credit scoring, and disease diagnosis.
